@@ -1,8 +1,6 @@
 # HabitsApp
 
-# App information
-
-- This is an app to track your habits daily to manage your productivity.
+This is an app to track your habits daily to manage your productivity.
 
 # Contact information
 
